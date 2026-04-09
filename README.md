@@ -30,11 +30,7 @@
    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
    ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-## GitHub Stats
-
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Mauro-Queiroz&theme=dark)](https://git.io/streak-stats)
-  
+    
 ## Github Stats 
 
    <a href="https://github.com/mauro-queiroz">
@@ -54,5 +50,3 @@
    [Desafio - Java ](https://github.com/Mauro-Queiroz/desafio_dio_banco)<br>
    [Stream API - Java ](https://github.com/Mauro-Queiroz/stream_api_java)<br>
    [Collections - Java ](https://github.com/Mauro-Queiroz/collections_java_api_2023)<br>
-
-
